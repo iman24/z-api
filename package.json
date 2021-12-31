@@ -6,7 +6,8 @@
   "dependencies": {
     "axios": "^0.24.0",
     "colors": "^1.4.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "zedge-api-unofficial": "https://github.com/n0bodysec/zedge-api-unofficial"
   },
   "devDependencies": {
     "eslint": "^8.1.0",
